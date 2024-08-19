@@ -1,0 +1,4 @@
+#Ignore sample template directories
+/wp-content/themes/twentytwentytwo/
+/wp-content/themes/twentytwentythree/
+/wp-content/themes/twentytwentyfour/
